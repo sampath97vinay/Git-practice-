@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-cout<<"Hello there! Test branch welcomes you"<<endl;
+cout<<"Hello there! Welcome to test branch"<<endl;
 
 return 0;
 
